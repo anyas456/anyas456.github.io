@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+}
+
+h1{
+  color: #fff;
+}
+
+h2{
+ color: #6610f2;
+
+}
+
+.bg {
+  background-image: url("hudsonsunset.jpg");
+
+  height: 100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.topnav {
+    background-color: #fd7e14;
+    overflow: hidden;
+}
+
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+  /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ffff0080;
+    color: black;
+}
+
+  /* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #d63384;
+    color: white;
+}
+.topnav b.active {
+  background-color: #6f42c1;
+  color: blue;
+}
+.txt
+{
+  color: white;
+  text-align: left;
+  background-color: #0000ff80;
+  position: relative;
+  top: 35px;
+  right: 16px;
+}
+h4{
+  text-align: center;
+}
+.img
+{
+  color: black;
+}
+.moretxt
+{
+  color: red;
+}
+img {
+  max-width: 500px;
+  height: 350px;
+}
+.bg2 {
+  background-image: url("rivernight4.jpg");
+
+  height: 100vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul{
+  float: left;
+  color: white;
+  font-family: fantasy;
+}
+h5{
+  font-size: 24px;
+  background-color: #ff000080;
+}
+li{
+  color: white;
+  font-family: "Andalé Mono", monospace;
+  font-size: 17px;
+  text-align: left;
+}
+.location1 {
+ float: left;
+ text-align: left;
+ color: white;
+ line-height: 3;
+}
+ol{
+  color: white;
+}
+h6{
+  background-color: #ffff0080;
+}
+.bg3{
+  background-image: url("sky5.jpg");
+  height: 230vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg4{
+
+  background-image: url("bg4.png");
+  height: 200vh;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p{
+  text-align: left;
+  color: white;
+  text-align: justify;
+  top: 35px;
+
+}
+.essay{
+  max-width: 900px;
+  top: 35px;
+
+}
